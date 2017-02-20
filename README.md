@@ -6,7 +6,7 @@ ___
 - [ ] Registration Page Design
 - [ ] Registration Page Model
 - [ ] Browse Page Design
-- [ ] Browse Page Model
+- [x] Browse Page Model
 - [ ] Game Log Design
 - [ ] Game Log Model
 - [ ] Leaderboard Page Design
